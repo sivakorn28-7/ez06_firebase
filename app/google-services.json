@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804631041258",
+    "project_id": "ez06-firebase",
+    "storage_bucket": "ez06-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804631041258:android:3fdac9929802954dcdf393",
+        "android_client_info": {
+          "package_name": "com.example.ez05_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPq_F-Hx4TLoihZEW7uuIardoPRA3Tr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

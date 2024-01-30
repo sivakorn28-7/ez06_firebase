@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ez05_firebase</string>
+    <string name="welcomemain">Welcome</string>
+    <string name="username_su">username</string>
+    <string name="password_su">password</string>
+    <string name="sign_up_su">sign up</string>
+    <string name="already_an_user_login_su">already an user login</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="username_log">username</string>
+    <string name="password_log">password</string>
+    <string name="login_log">login</string>
+    <string name="not_yet_registered_signup_log">not_yet_registered_signup</string>
+    <string name="login_txt">Login</string>
+    <string name="not_yet_registered_signup_login">Not yet registered signup?</string>
+</resources>
